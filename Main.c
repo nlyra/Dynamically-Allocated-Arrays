@@ -5,7 +5,7 @@
 // Create a "lonely party array", where arrays are broken into fragments
 // that get allocated and deallocateded on an as needed basis.
 
-#include "LonelyPartyArray.h"
+#include "header.h"
 #include <stdio.h>
 #include <stdlib.h>
 
